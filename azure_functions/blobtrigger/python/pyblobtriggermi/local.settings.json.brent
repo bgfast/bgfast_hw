@@ -1,4 +1,5 @@
 {
+  "DO NOT COMMIT SECRETS":true,
   "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=bgfastfunczipsa;AccountKey=+mxnWF2ovbaYn8jqJDaEEtj79q0cDps1MWNl6kgZFgP+FJcNl3wZqON1rlmEfGmVBTDZ5/QYHxFa+AStqPrvhw==;EndpointSuffix=core.windows.net",
