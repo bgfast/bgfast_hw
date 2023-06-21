@@ -1,4 +1,5 @@
 {
+    "DO NOT STORE SECRETS IN REPO" : true,
     "IsEncrypted" : false,
     "Values":{
         "resourceGroup": "rg-bgfast-funczip",
