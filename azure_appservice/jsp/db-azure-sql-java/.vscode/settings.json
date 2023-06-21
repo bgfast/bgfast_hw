@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "appService.preDeployTask": "package:azure-sql-java-samples",
+    "appService.deploySubpath": "target/azure-sql-java-samples-1.war"
+}
