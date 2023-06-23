@@ -1,4 +1,3 @@
-<%@ page import="com.azure.sql.sample.HWMain" %>
 
 <html>
     <head>
@@ -19,13 +18,13 @@
         // Connect to Azure SQL DB
         out.println("<h2>Java Azure SQL Sample</h2>");
         out.println("<h4>Azure SQL demo with JSP front page and Java class backend using sql credentials</h4>");
-        HWMain hw = new HWMain();
+//        HWMain hw = new HWMain();
 
         try {
             //out.println("Demo starting<br>");
             out.println("<div><br>");
             
-                out.println(hw.getAndIncrementCounter());
+ //               out.println(hw.getAndIncrementCounter());
         } catch (Exception e) {
             out.println("Demo failed"+e.toString());
         } finally {
